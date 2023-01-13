@@ -2,7 +2,7 @@
 
 This Portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show my projects!
 
-[Live Heroku deployment](https://portfolio.lizziethemathqu.repl.co/)
+[Live Replit deployment](https://portfolio.lizziethemathqu.repl.co/)
 
 ## Screenshot:
 
